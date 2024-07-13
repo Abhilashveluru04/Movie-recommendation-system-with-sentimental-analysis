@@ -13,3 +13,6 @@ For web scraping the reviews we have used beautifulsoup to extract from imdb web
 # How to run project
 To run the project install all the required modules from requirements.txt file. Get your api key from tmdb api and replace it in the main.py file. The nlp_model.pkl and transform.pkl file is already loaded with the model. If you want to make any changes to them delete the pkl files and do relevant changes in Movie_Reviews_Classification.ipynb file and run it. To run the project go to the terminal and give the command 
 python3/python main.py. Then we have used flask for developing the webapplication. Go to the url http://127.0.0.1:5000.
+
+Any queries contact abhilashveluru4@gmail.com
+frontend credits https://github.com/kishan0725
